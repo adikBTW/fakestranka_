@@ -139,12 +139,12 @@ footer{
     object-fit: cover;
 }
 .grey-block {
-    background-color: #d3d3d3; /* Light grey background */
-    color: #000; /* Black text */
+    background-color: #d3d3d3;
+    color: #000;
     padding: 30px;
-    text-align: left; /* Align text to the left */
-    width: 60%; /* Adjust the width as needed */
-    margin: 20px; /* Add margin for spacing */
+    text-align: left;
+    width: 60%;
+    margin: 20px;
     font-size: 20px;
     font-weight: bold;
 }
@@ -154,7 +154,7 @@ footer{
 }
 
 .grey-block .cta {
-    color: #007bff; /* Blue color for CTA */
+    color: #007bff;
     font-weight: bold;
     text-decoration: none;
     display: inline-block;
